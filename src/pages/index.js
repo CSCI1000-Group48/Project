@@ -34,10 +34,10 @@ export default function Home() {
             </p>
           </a>
           <a
-            href='https://nextjs.org/learn/foundations/about-nextjs'
+            href='https://zty.pe/'
             className='card'>
-            <h3>Next.js&rarr;</h3>
-            <p>Click here to learn more about Next.js</p>
+            <h3>Ztype&rarr;</h3>
+            <p>Play a fun typing game!</p>
           </a>
           <a href='https://blog.hubspot.com/website/html' className='card'>
             <h3>HTML and CSS &rarr;</h3>
@@ -76,7 +76,7 @@ export default function Home() {
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          background-color: rgb(52,204,255);
+          background-color: #d0efff;
         }
 
         main {
