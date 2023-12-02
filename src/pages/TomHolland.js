@@ -29,7 +29,7 @@ export default function examplePage() {
             <p> Back to Home Page</p>
           </a>
         </main>
-
+        
         <style jsx>{`
           .container {
             min-height: 100vh;

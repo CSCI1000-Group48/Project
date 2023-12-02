@@ -9,17 +9,15 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>Welcome to Group 48's Website!</h1>
 
         <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
+          This is our groups home page.
         </p>
         <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
+          Explore our personal pages through the links below:
         </p>
-        <code>src/page/teamMemberName.js</code>
+      
 
         <div className='grid'>
           <a href='/TomHolland ' className='card'>
@@ -78,7 +76,7 @@ export default function Home() {
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          background-color: rgb(0,0,0);
+          background-color: rgb(52,204,255);
         }
 
         main {
