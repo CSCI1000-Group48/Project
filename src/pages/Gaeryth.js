@@ -43,7 +43,7 @@ export default function examplePage() {
           }
 
           main {
-            padding: 5rem 0;
+            padding: 3rem 0;
             flex: 1;
             display: flex;
             flex-direction: column;
@@ -67,7 +67,7 @@ export default function examplePage() {
           .description {
             line-height: 1.5;
             font-size: 1.5rem;
-            color: rgb(150,240,255);
+            color: rgb(60,255,255);
           }
 
           .pic {
