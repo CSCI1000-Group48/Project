@@ -24,7 +24,10 @@ export default function Home() {
             <h3>Example About Me Page &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>
-
+          <a href='/Gaeryth' className='card'>
+            <h3>Gaeryth Ebert&rarr;</h3>
+            <p>Click here to visit Gaeryth's page</p>
+          </a>
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
@@ -37,7 +40,7 @@ export default function Home() {
             href='https://zty.pe/'
             className='card'>
             <h3>Ztype&rarr;</h3>
-            <p>Play a fun typing game!</p>
+            <p>Try playing this fun typing game!</p>
           </a>
           <a href='https://blog.hubspot.com/website/html' className='card'>
             <h3>HTML and CSS &rarr;</h3>
@@ -54,10 +57,6 @@ export default function Home() {
           <a href='https://www.netlify.com/' className='card'>
             <h3>Netlify&rarr;</h3>
             <p>Click here to learn more about Netlify to host your website</p>
-          </a>
-          <a href='/Gaeryth' className='card'>
-            <h3>Gaeryth Ebert&rarr;</h3>
-            <p>Click here to visit Gaeryth's page</p>
           </a>
         </div>
       </main>
