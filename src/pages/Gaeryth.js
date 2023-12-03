@@ -49,14 +49,14 @@ export default function examplePage() {
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            padding-color rgb(0,0,0)
+            padding-color: rgb(0,0,0);
           }
 
           .title {
             margin: 0;
             line-height: 1.15;
             font-size: 4rem;
-            text-color rgb(150,240,255);
+            color: rgb(150,240,255);
           }
 
           .underline {
@@ -67,7 +67,7 @@ export default function examplePage() {
           .description {
             line-height: 1.5;
             font-size: 1.5rem;
-            text-color rgb(150,240,255);
+            color: rgb(150,240,255);
           }
 
           .pic {
