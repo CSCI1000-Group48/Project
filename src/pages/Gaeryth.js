@@ -15,7 +15,13 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            My nam is Gaeryth. 
+            My name is Gaeryth. I'm from Colorado and I love all the outdoor
+            recreaction this state hasto offer. After I finish my undergrad I
+            am most interested in working in AI. However, computer
+            science is a large field and I find most of it interests me.
+            So I have lots of opptions. I am also quite interested in continuing onto
+            a Masters degree. 
+
           </p>
 
           <a className='button' href='/'>
@@ -33,6 +39,7 @@ export default function examplePage() {
             align-items: center;
             max-width: 60rem;
             margin: auto;
+            background-color: rgb(0,0,0); 
           }
 
           main {
@@ -58,11 +65,12 @@ export default function examplePage() {
           .description {
             line-height: 1.5;
             font-size: 1.5rem;
+            color rgb(150,240,255);
           }
 
           .pic {
-            height: 550px;
-            width: 450px;
+            height: 350px;
+            width: 250px;
           }
 
           .button {
@@ -70,7 +78,7 @@ export default function examplePage() {
             flex-basis: 45%;
             padding: 0.5rem;
             text-align: left;
-            color: inherit;
+            color: white;
             text-decoration: none;
             border: 1px solid #eaeaea;
             border-radius: 10px;

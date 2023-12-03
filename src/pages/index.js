@@ -76,7 +76,7 @@ export default function Home() {
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          background-color: #d0efff;
+          background-color: rgb(255,255,255);
         }
 
         main {
