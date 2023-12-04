@@ -20,20 +20,20 @@ export default function Home() {
       
 
         <div className='grid'>
-          <a href='/TomHolland ' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
-          </a>
           <a href='/Gaeryth' className='card'>
             <h3>Gaeryth Ebert&rarr;</h3>
             <p>Click here to visit Gaeryth's page</p>
           </a>
+          <a href='/TomHolland ' className='card'>
+            <h3>Example About Me Page &rarr;</h3>
+            <p>Click here to navigate to an example page</p>
+          </a>
           <a
-            href='https://github.com/vedant29/Project-CSCI-1000'
+            href='https://www.youtube.com/watch?v=4QsEPEhq5yk'
             className='card'>
-            <h3>Project Resources&rarr;</h3>
+            <h3>Cool Rocket Video&rarr;</h3>
             <p>
-              Return to the Github for resources on creating your own website!
+              Check out this cool amateur rocket video!
             </p>
           </a>
           <a
@@ -41,22 +41,6 @@ export default function Home() {
             className='card'>
             <h3>Ztype&rarr;</h3>
             <p>Try playing this fun typing game!</p>
-          </a>
-          <a href='https://blog.hubspot.com/website/html' className='card'>
-            <h3>HTML and CSS &rarr;</h3>
-            <p>Click here to learn more about HTML and CSS</p>
-          </a>{' '}
-          <a href='https://tailwindcss.com/' className='card'>
-            <h3>Tailwind css&rarr;</h3>
-            <p>Click here to learn more about tailwind css</p>
-          </a>
-          <a href='https://styled-components.com/' className='card'>
-            <h3>Styled Components&rarr;</h3>
-            <p>Click here to learn more about Styled Components</p>
-          </a>
-          <a href='https://www.netlify.com/' className='card'>
-            <h3>Netlify&rarr;</h3>
-            <p>Click here to learn more about Netlify to host your website</p>
           </a>
         </div>
       </main>

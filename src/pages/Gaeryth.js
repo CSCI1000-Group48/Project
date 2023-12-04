@@ -56,7 +56,7 @@ export default function examplePage() {
             margin: 0;
             line-height: 1.15;
             font-size: 4rem;
-            color: rgb(150,240,255);
+            color: rgb(150,250,255);
           }
 
           .underline {
